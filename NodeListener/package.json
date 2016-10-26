@@ -1,0 +1,15 @@
+{
+  "name": "node-listener",
+  "version": "0.0.0",
+  "description": "NodeListener",
+  "main": "server.js",
+  "author": {
+    "name": "Jonny",
+    "email": ""
+  },
+  "target_arch": "ARM",
+  "platform": "uwp",
+  "scripts": {
+    "start": "--debug server.js"
+  }
+}

@@ -18,6 +18,12 @@
       <Filter>Package Dependencies</Filter>
     </ClCompile>
     <ClCompile Include="LedWiring.ino" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">

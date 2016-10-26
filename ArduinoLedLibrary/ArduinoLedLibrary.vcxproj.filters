@@ -16,6 +16,12 @@
   <ItemGroup>
     <ClCompile Include="ArduinoLedLibrary.ino" />
     <ClCompile Include="LedController.cpp" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
+    <ClCompile Include="@(ArduinoSDKSources)" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
